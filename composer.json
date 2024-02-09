@@ -1,5 +1,5 @@
 {
-    "name": "orchestra/support-facades",
+    "name": "avninc/support-facades",
     "description": "Support (Facades) Component for Orchestra Platform",
     "homepage": "http://orchestraplatform.com/docs/latest/components/support/",
     "keywords": ["orchestra-platform", "orchestral", "laravel"],
@@ -18,7 +18,7 @@
     },
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^9.0"
+        "illuminate/support": "^9.0 || ^10.0 || ^11.0"
     },
     "extra": {
         "branch-alias": {
